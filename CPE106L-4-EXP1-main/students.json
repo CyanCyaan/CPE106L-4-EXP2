@@ -1,0 +1,12 @@
+[
+    {
+        "student_id": "2024102030",
+        "name": "Jojo Blizorg",
+        "course": "BSCpE",
+        "grades": [
+            90.0,
+            85.0,
+            88.0
+        ]
+    }
+]
